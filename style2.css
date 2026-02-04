@@ -1,0 +1,87 @@
+/* Write some CSS below */
+
+head{
+
+}	
+div{
+    border: 1px hotpink;
+    padding: 40px;
+    background-color:rgb(242, 233, 240);
+}
+body{
+	background-color:rgb(255, 228, 239);
+	font-family: arial;
+	font-size: 18px;
+}
+h1{
+	color:hotpink;
+  background-color: lightblue;
+	letter-spacing: 3px;
+  font-family: "Monoton", sans-serif;
+
+}
+
+h2{
+	color:rgb(33, 60, 81);
+  font-family: arial;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  
+}
+  
+h3{
+	color:rgb(33, 60, 81);
+  font-family: arial;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  }
+  div{
+    border: 1px hotpink;
+  }
+
+h4{
+	color:rgb(33, 60, 81);
+  font-family: arial;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+}
+h5{
+	color:rgb(33, 60, 81);
+  font-family: arial;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+}
+h6{
+	color:rgb(240, 117, 174);
+  font-family: arial;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
+}
+h7{
+	color:rgb(240, 117, 174);
+  font-family: Pinyon;
+  font-weight: 400;
+  font-size: 22px;
+}
+h8{
+  color:rgb(240, 117, 174);
+  font-family: arial;
+  font-weight: 400;
+  font-size: 22px;
+}
+h9{
+  color:rgb(240, 117, 174);
+  font-family: arial;
+  font-weight: 400;
+  font-size: 22px;
+}
+a{
+	text-decoration: none;
+} 
+
+
